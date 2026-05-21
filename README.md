@@ -2,9 +2,11 @@
 
 # EXP 5: COMPARATIVE ANALYSIS OF DIFFERENT TYPES OF PROMPTING PATTERNS AND EXPLAIN WITH VARIOUS TEST SCENARIOS
 
-# Aim: To test and compare how different pattern models respond to various prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios.  Analyze the quality, accuracy, and depth of the generated responses 
+# Aim: 
+To test and compare how different pattern models respond to various prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios.  Analyze the quality, accuracy, and depth of the generated responses 
 
-### AI Tools Required: 
+# AI Tools Required: 
+CLAUDE AI
 
 # Explanation: 
 Define the Two Prompt Types:
@@ -32,7 +34,12 @@ A table comparing ChatGPT's responses to naïve and basic prompts across all sce
 Analysis of how prompt clarity impacts the quality, accuracy, and depth of ChatGPT’s outputs.
 Summary of findings with insights on how to structure prompts for optimal results when using ChatGPT.
 
+# PROMPT
+
+Generate a professional multi-page PDF lab report on 'Comparative Analysis of Prompting Patterns (Naive vs Basic)' for student SAADHANA L, Reg No. 2122240600224. Include: cover page, table of contents, aim, objectives, introduction, prompting pattern explanation tables, experimental procedure, 5 test scenarios each with naive prompt + response + basic prompt + response + score table (Quality/Accuracy/Depth/Clarity/Relevance out of 10), and a full analysis section with 8 charts (bar, pie, radar, heatmap, line trend, stacked bar, improvement chart), master comparison table, conclusion, best practices table, and references. Use a orange/white color scheme with headers and footers on every page.
 
 # OUTPUT
+[Lab_Report_Saadhana_Prompting_Patterns.pdf](https://github.com/user-attachments/files/28082712/Lab_Report_Saadhana_Prompting_Patterns.pdf)
 
-# RESULT: The prompt for the above said problem executed successfully
+# RESULT: 
+The prompt for the above said problem executed successfully
